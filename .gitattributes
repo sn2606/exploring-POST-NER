@@ -1,0 +1,4 @@
+news-headlines/Output/pred_tags_nltk filter=lfs diff=lfs merge=lfs -text
+news-headlines/Output/pred_tags_spacy filter=lfs diff=lfs merge=lfs -text
+wikipedia-movie/Output/pred_tags_nltk filter=lfs diff=lfs merge=lfs -text
+wikipedia-movie/Output/pred_tags_spacy filter=lfs diff=lfs merge=lfs -text
